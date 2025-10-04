@@ -1,0 +1,29 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.input {
+  margin: 20px 0;
+  padding: 10px;
+  font-size: 1em;
+}
+
+.image {
+  max-width: 300px;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+}
+
+.prediction {
+  font-size: 1.2em;
+  color: #333;
+}
